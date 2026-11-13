@@ -1,0 +1,3 @@
+.venv/
+ollama_data/
+__pycache__/
